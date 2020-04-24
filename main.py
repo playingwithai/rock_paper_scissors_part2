@@ -9,7 +9,6 @@ MOVES = {
     "s": MovesEnum.SCISSORS,
 }
 
-
 if __name__ == "__main__":
 
     game = Game()
